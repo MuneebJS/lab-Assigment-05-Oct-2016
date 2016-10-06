@@ -1,0 +1,40 @@
+#main {
+    width: 50%;
+    border: 40px solid black;
+    border-radius: 40px;
+    box-shadow: 10px 10px 2px oldlace;
+    margin: auto;
+    height: 750px;
+}
+
+.blue-color {
+    color: #71A215;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    line-height: 1.5em;
+}
+.green-color {
+    color: #4357B3;
+}
+h2 {
+    text-align: center;
+}
+.img {
+    width: 200px;
+    margin-left: 200px;
+    margin-top: -18px;
+
+}
+.seat {
+    position: absolute;
+    right: 100px;
+    top: -50px;    
+}
+.top-img {
+    width: 100%;
+}
+.feature-img {
+    width: 100%;
+    height: 240px;
+    margin-top: 7px;   
+}
